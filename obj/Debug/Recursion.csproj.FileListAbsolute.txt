@@ -1,0 +1,6 @@
+C:\Users\Driuki\source\repos\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Driuki\source\repos\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\Driuki\source\repos\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Driuki\source\repos\Recursion\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Driuki\source\repos\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\Driuki\source\repos\Recursion\Recursion\obj\Debug\Recursion.pdb
